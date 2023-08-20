@@ -1,9 +1,9 @@
 <div align="center">
 <h3>Contact İnformation</h3>
-<a href="https://discord.gg/0248" target"blank_"><img src="https://img.shields.io/badge/Nativez%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://open.spotify.com/user/31oot6fjpm6c7n4x62v3dqmwupcu?si=cb12643c56314eed" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://www.instagram.com/h4mzaaaa/" target"blank_"><img src="https://img.shields.io/badge/instagram%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://github.com/nativezz" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://discord.gg/" target"blank_"><img src="https://img.shields.io/badge/Nativez%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://open.spotify.com/user/31y4nogcinbs7zrt6aob7dkmexze?si=0c5fe8b2c8a74080" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://www.instagram.com/hevesmikaldisanki/" target"blank_"><img src="https://img.shields.io/badge/instagram%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://github.com/natiware" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 
