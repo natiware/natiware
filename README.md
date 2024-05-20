@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1153141677716934668/1154820812856111115/5beacef1cdc69eab929866ab97a91e3a.png">
 <h3>Language and Tools</h3>
 <img src="https://img.shields.io/badge/Node.js%20-111111.svg?&style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Python%20-111111.svg?&style=for-the-badge&logo=Python&logoColor=white">
