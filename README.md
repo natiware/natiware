@@ -8,11 +8,6 @@
 </div>
 
 <div align="center">
-<h3>Support</h3>
-https://buymeacoffee.com/natiware
-</div>
-
-<div align="center">
 <h3>Contact İnformation</h3>
 <a href="t.me/Nativez248" target"blank_"><img src="https://img.shields.io/badge/Nativez248%20-111111.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://github.com/natiware" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
