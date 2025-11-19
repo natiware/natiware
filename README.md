@@ -10,7 +10,7 @@
 <div align="center">
 <h3>Contact İnformation</h3>
 <a href="t.me/nativezpay" target"blank_"><img src="https://img.shields.io/badge/Nativez248%20-111111.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="t.me/schweisdev" target"blank_"><img src="https://img.shields.io/badge/Schweis-Projects%20-111111.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="t.me/schweisdev" target"blank_"><img src="https://img.shields.io/badge/SchweisProjects%20-111111.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://github.com/natiware" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
